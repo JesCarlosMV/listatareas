@@ -1,3 +1,5 @@
 # App Tareas
 
-React 
+```
+Lista de tareas con React.
+```
